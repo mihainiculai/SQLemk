@@ -80,7 +80,7 @@ exemplu: format invalid al comenzii, parametrii eroanți, date neconforme etc.
 # Intalare 📝
 
  1. Descarcați sursa proiectului de pe Github
- 2. Utilizați un compilator C++ pentru a compila și a genera un fișier executabil. Folosiți un IDE precum Visual Studio 2022 sau CLion 2023
+ 2. Utilizați un compilator C++ pentru a compila și a genera un fișier executabil. Dacă folosiți un IDE precum Visual Studio 2022 sau CLion 2023, poți să descarci direct proiectul care include toate fișierele necesare din secțiunea Releases
  3. Rulați programul
 
 # Compatibilitate 💻

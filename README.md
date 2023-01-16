@@ -78,13 +78,13 @@ Programul aruncă excepții pentru toate cazurile posibile.
 exemplu: format invalid al comenzii, parametrii eroanți, date neconforme etc.
 
 # Intalare 📝
-
  1. Descarcați sursa proiectului de pe Github
- 2. Utilizați un compilator C++ pentru a compila și a genera un fișier executabil. Dacă folosiți un IDE precum Visual Studio 2022 sau CLion 2023, poți să descarci direct proiectul care include toate fișierele necesare din secțiunea Releases
+ 2. Utilizați un compilator C++ pentru a compila și a genera un fișier executabil.
  3. Rulați programul
 
-# Compatibilitate 💻
+Dacă folosiți un IDE precum Visual Studio 2022 sau CLion 2023, poți să descarci direct proiectul care include toate fișierele necesare din secțiunea Releases
 
+# Compatibilitate 💻
 Programul funcționează atât pe Winows, Linux cât și pe MacOS.
 Este nevoie de un compilator ce suportă minim C++14.
 

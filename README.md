@@ -49,18 +49,6 @@ Utilize `.csv` files for importing and exporting data.
 ## 📄 Logging
 Tracks all user activity, complete with time-stamps and errors.
 
-# Installation 📝
-
-1. Clone the GitHub repository.
-2. Compile the source code with a C++ compiler.
-3. Run the generated executable.
-
-> For IDEs like Visual Studio or CLion, download the project directly from the Releases section.
-
-# Compatibility 💻
-
-SQLemk runs on Windows, Linux, and MacOS. A compiler supporting at least C++14 is required.
-
 # Additional Features 📜
 
 - Class Implementation
@@ -73,6 +61,18 @@ SQLemk runs on Windows, Linux, and MacOS. A compiler supporting at least C++14 i
   - Use of vectors, sets.
 
 The application also throws exceptions for all possible error scenarios.
+
+# Installation 📝
+
+1. Clone the GitHub repository.
+2. Compile the source code with a C++ compiler.
+3. Run the generated executable.
+
+> For IDEs like Visual Studio or CLion, download the project directly from the Releases section.
+
+# Compatibility 💻
+
+SQLemk runs on Windows, Linux, and MacOS. A compiler supporting at least C++14 is required.
 
 # License 🪪
 Licensed under the [MIT License](LICENSE).
